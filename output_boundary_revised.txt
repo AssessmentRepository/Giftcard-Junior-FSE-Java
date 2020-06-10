@@ -1,8 +1,0 @@
-
-testRecipientNameLength=true
-testGiftCardCategory=true
-testGiftAmount=true
-testGiftOrdersSuccess=false
-testBuyerNameLength=true
-testRecipientMobileNo=false
-testShippingId=true

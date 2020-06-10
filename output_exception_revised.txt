@@ -1,3 +1,0 @@
-
-viewOrders=true
-saveGiftCardDetails=true

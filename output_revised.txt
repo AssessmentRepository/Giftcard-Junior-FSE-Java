@@ -1,5 +1,0 @@
-
-testSendGiftCard=false
-testDeleteOrder=false
-testsaveUser=false
-testgetByUsername=false
